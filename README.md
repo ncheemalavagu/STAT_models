@@ -8,4 +8,6 @@ STAT models in bionetgen
 - Negative regulators: SOCS1, SOCS3, PTP1, and PTP3
 - No basal SOCS
 - Contains SOCS degradation reactions
+- Fit to IL-6, IL-10, and combination cytokines (1 and 10 ng/ml)
+- Fitting done with pTempEst
 

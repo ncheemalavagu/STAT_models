@@ -1,5 +1,5 @@
 # STAT_models
-STAT models in bionetgen
+STAT models in bionetgen language (BNGL)
 
 ## STAT1/STAT3 Model - key model features
 - STAT1 and STAT3 phosphoryation

@@ -2,8 +2,8 @@
 STAT models in bionetgen language (BNGL)
 
 ## STAT1/STAT3 Model - key model features
-- STAT1 and STAT3 phosphoryation
-- IL-6 and IL-10 activation
+- Name: variable_JAK_STAT_SOCS_degrad_model.bngl
+- STAT1 and STAT3 phosphoryation with IL-6/IL-10 stimulation
 - JAK1 and JAK2 phosphoryate STATs independently
 - Negative regulators: SOCS1, SOCS3, PTP1, and PTP3
 - No basal SOCS

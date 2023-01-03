@@ -1,5 +1,7 @@
 # STAT_models
-STAT models in bionetgen language (BNGL)
+STAT models in BioNetGen language (BNGL)
+
+More information on BioNetGen: https://bionetgen.org/
 
 ## STAT1/STAT3 Model - key model features
 - Name: variable_JAK_STAT_SOCS_degrad_model.bngl

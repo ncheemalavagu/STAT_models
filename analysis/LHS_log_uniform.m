@@ -1,4 +1,4 @@
-% min and max must be greater than 0 (because of log)
+% min and max must be greater than 0 (because of log transformation)
 function samples = LHS_log_uniform(n,min_ranges,max_ranges)
     % split cdf into intervals
     bounds = linspace(0,1,n+1);

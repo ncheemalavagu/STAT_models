@@ -4,7 +4,7 @@ STAT models in BioNetGen language (BNGL)
 More information on BioNetGen: https://bionetgen.org/
 
 ## STAT1/STAT3 Model - key model features
-- Name: variable_JAK_STAT_SOCS_degrad_model.bngl
+- Model file: variable_JAK_STAT_SOCS_degrad_model.bngl
 - STAT1 and STAT3 phosphoryation with IL-6/IL-10 stimulation
 - JAK1 and JAK2 phosphoryate STATs independently
 - Negative regulators: SOCS1, SOCS3, PTP1, and PTP3

@@ -11,5 +11,6 @@ More information on BioNetGen: https://bionetgen.org/
 - No basal SOCS
 - Contains SOCS degradation reactions
 - Fit to IL-6, IL-10, and combination cytokines (1 and 10 ng/ml)
-- Fitting done with pTempEst
+- Fitting done with pTempEst (https://github.com/RuleWorld/ptempest)
+
 

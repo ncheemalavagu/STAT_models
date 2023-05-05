@@ -13,4 +13,6 @@ More information on BioNetGen: https://bionetgen.org/
 - Fit to IL-6, IL-10, and combination cytokines (1 and 10 ng/ml)
 - Fitting done with pTempEst (https://github.com/RuleWorld/ptempest)
 
-
+## Running Model 
+- CVODE installation required
+- mex compilation of Matlab model file required 

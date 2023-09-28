@@ -1,4 +1,5 @@
 # STAT_models
+[![DOI](https://zenodo.org/badge/584896092.svg)](https://zenodo.org/badge/latestdoi/584896092)
 
 Rule-based mechanistic modeling, machine learning and analysis code used in the paper, "Predicting gene level sensitivity to JAK-STAT signaling perturbation using a mechanistic-to-machine learning framework."
 
